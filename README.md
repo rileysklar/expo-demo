@@ -7,7 +7,7 @@ This is a simple React Native application that tracks and displays the user's cu
 - Requests location permission from the user.
 - Continuously fetches the user's current location.
 - Displays the user's location on a map.
-- Places a marker on the map at the user's current location.
+- Places a marker at the user's current location.
 
 ## Technologies Used
 
